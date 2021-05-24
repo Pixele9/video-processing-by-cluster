@@ -1,0 +1,16 @@
+{
+  "name": "my-cluster-video-processing",
+  "version": "1.0.0",
+  "description": "Cluster Image Processing",
+  "main": "client.js",
+  "repository": "https://github.com/Pixele9/video-processing-by-cluster.git",
+  "author": "Andrés Leal Aguilar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "morgan": "^1.10.0",
+    "socket.io-client": "^4.1.2",
+    "socket.io-stream": "^0.9.1"
+  }
+}
